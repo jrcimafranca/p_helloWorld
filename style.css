@@ -103,12 +103,12 @@ main {
   transition: .3s ease;
 }
 
-#sysops {
+.sysops {
   color: gray;
   transition: .3s ease;
 }
 
-#sysops:hover {
+.sysops:hover {
   color:red;
   transition: 3.s ease;
 }
@@ -122,7 +122,7 @@ main {
     transition: .3s ease;
   }
 
-  #sysops {
+  .sysops {
     color:red;
     transition: .3s ease;
   }  
